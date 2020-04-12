@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseAuthentication</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="home_activity">HOME ACTIVITY</string>
+    <string name="signup">SIGNUP</string>
+    <string name="login_activity">LOGIN ACTIVITY</string>
+    <string name="register_activity">REGISTER ACTIVITY</string>
+</resources>
